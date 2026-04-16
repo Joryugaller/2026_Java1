@@ -1,9 +1,8 @@
 package ai0326;
 
-import java.util.Calendar;
 import java.util.Scanner;
 
-public class scannerTest
+public class Lab1
 {
     public static void main(String[] args)
     {
